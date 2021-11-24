@@ -6,6 +6,7 @@
 - 👯 Começei na programação para ajudar minha fámilia ...
 - 🤔 Estou estudando Html ...
 - 💬 Meu número : 11 98668-7216
+- 💻 Email para contato: DevJoao25052009@gmail.com
 
 <div align="center">
   <a href="https://github.com/DevMirim">
@@ -21,8 +22,4 @@
    </div>
     
    ##
-    <div>
-      target="_blank"></a> 
-  <a href = "DevJoao25052009@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    </div>
-   
+    
