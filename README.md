@@ -6,12 +6,13 @@
 - 👯 Começei na programação para ajudar minha fámilia ...
 - 🤔 Estou estudando Html ...
 - 📍  Vila Mariana/SP
-- 💬 Meu número : 11 98668-7216
+- 💬 Meu número : 11 98669-7216
 - 💻 Email para contato: DevJoao25052009@gmail.com
 
 <div align="center">
   <a href="https://github.com/DevMirim">
-   <a href="https://instagram.com/dev_joao2009">
+   <a href="https://instagram.com/João Vitor
+">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevMirim&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevMirim&layout=compact&langs_count=7&theme=dark"/>
 </div>
