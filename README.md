@@ -39,6 +39,6 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-    <img width="350em" src="https://github-readme-stats.vercel.app/api?username=GomidesTiago&theme=chartreuse-dark" alt="João Vitor stats"/>
-    <img width="50%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Gomidestiago&layout=compact&theme=chartreuse-dark" alt="João Vitor stats"/>
+    <img width="350em" src="https://github-readme-stats.vercel.app/api?username=João Vitor&theme=chartreuse-dark" alt="João Vitor stats"/>
+    <img width="50%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=João Vitor&layout=compact&theme=chartreuse-dark" alt="João Vitor stats"/>
 </p>
