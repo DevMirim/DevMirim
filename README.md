@@ -1,7 +1,6 @@
 
  <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm João Vitor um Dev Mirim</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=JoãoVitor&color=green" alt="Profile views" width="100px" /> </p>
-
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=DevMirim&color=green" alt="Profile views" width="100px" /> </p>
 
 - 🔭 biografia: ...
 - 🌱 Tenho 12 anos ...
@@ -41,6 +40,6 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-    <img width="350em" src="https://github-readme-stats.vercel.app/api?username=JoãoVitor&theme=chartreuse-dark" alt="João Vitor stats"/>
-    <img width="50%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=JoãoVitor&layout=compact&theme=chartreuse-dark" alt="João Vitor stats"/>
+    <img width="350em" src="https://github-readme-stats.vercel.app/api?username=DevMirim&theme=chartreuse-dark" alt="João Vitor stats"/>
+    <img width="50%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=DevMirim&layout=compact&theme=chartreuse-dark" alt="João Vitor stats"/>
 </p>
