@@ -9,13 +9,9 @@
 - 💬 Meu número : 11 98669-7216
 - 💻 Email para contato: DevJoao25052009@gmail.com
 
-<div align="center">
-  <a href="https://github.com/DevMirim">
-   <a href="https://instagram.com/João Vitor
-">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevMirim&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevMirim&layout=compact&langs_count=7&theme=dark"/>
-</div>
+<img align="center" alt="HTML5" height="90" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">     
+      <img align="center" alt="CSS3" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">     
+      <img align="center" alt="js" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     
  <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
