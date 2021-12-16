@@ -1,6 +1,6 @@
 
  <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm João Vitor um Dev Mirim</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=GomidesTiago&color=green" alt="Profile views" width="100px" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=João Vitor&color=green" alt="Profile views" width="100px" /> </p>
 
 
 - 🔭 biografia: ...
