@@ -32,6 +32,8 @@
      <img align="center" alt="git" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">     
      <img align="center" alt="github" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
      <img align="center" alt="git" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+     <img align="center" alt="js" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg"> 
+      
       
 <div/>
      
